@@ -1,4 +1,4 @@
-**Auto Copy Phone Numbers from FB DMs Chrome Extension**
+**#Auto Copy Phone Numbers from FB DMs Chrome Extension**
 **Description**
   - This Chrome extension automatically detects and copies phone numbers from direct messages (DMs) in the Facebook Business Suite Inbox. It supports various phone number formats (10+ digits, with/without country codes, spaces, hyphens, etc.) and copies them to the clipboard without manual intervention. Includes an On/Off toggle for privacy consent and keyboard shortcuts for quick control.
 Features
